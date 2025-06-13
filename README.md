@@ -1,4 +1,4 @@
-### Coding Story · Crafting Beauty
+A **frontend-leaning software engineer** crafting seamless, user-first experiences—driven by detail, design, and a dash of storytelling. By day, I engineer digital solutions for millions; by night, I chase ideas through code, visuals, and words. I have a strong affinity for building fun, visually striking products that feel as good as they look. Always creating. Always telling stories.
 
 ---
 
