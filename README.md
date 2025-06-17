@@ -1,4 +1,4 @@
-A **frontend-leaning software engineer** crafting seamless, user-first experiences—driven by detail, design, and a dash of storytelling. By day, I engineer digital solutions for millions; by night, I chase ideas through code, visuals, and words. I have a strong affinity for building fun, visually striking products that feel as good as they look. Always creating. Always telling stories.
+A **frontend-leaning software engineer** crafting seamless, user-first experiences—driven by detail, design, and a dash of storytelling. Engineering digital solutions for millions by day; chasing ideas through code, visuals, and words by night. Has a strong affinity for building fun, visually striking products that feel as good as they look. Always creating. Always telling stories.
 
 ---
 
