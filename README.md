@@ -8,4 +8,6 @@ React.js · Next.js · Vue.js · TailwindCSS · GraphQL · HTML5 · CSS3
 
 Oracle · PostgreSQL
 
-Git · SVN · Postman · JIRA · Datadog · Figma
+Git · SVN · Postman · Jira/Confluence · Datadog · Figma
+
+Claude Code · Antigravity
