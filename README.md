@@ -3,7 +3,11 @@ A **frontend-leaning software engineer** crafting seamless, user-first experienc
 ---
 
 JavaScript · TypeScript · Java · C++ 
-React.js · Next.js · Vue.js · TailwindCSS · GraphQL · HTML5 · CSS3
+
+React.js · Next.js · Vue.js · Meteor.js · TailwindCSS · GraphQL · HTML5 · CSS3
+
 Oracle · PostgreSQL
+
 Git · SVN · Postman · Jira/Confluence · Datadog · Figma
+
 Claude Code · Antigravity
