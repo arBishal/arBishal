@@ -1,4 +1,6 @@
-A **frontend-leaning software engineer** crafting seamless, user-first experiences—driven by detail, design, and a dash of storytelling. Engineering digital solutions for millions by day; chasing ideas through code, visuals, and words by night. Always creating. Always telling stories.
+A **frontend-leaning software engineer** crafting seamless, user-first experiences—driven by detail, design, and a dash of storytelling. Engineering digital solutions for millions by day; chasing ideas through code, visuals, and words by night.
+
+Always creating. Always telling stories.
 
 ```
 SPEAK      JavaScript · TypeScript · Java · C++
