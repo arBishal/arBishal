@@ -4,6 +4,6 @@ A **frontend-leaning software engineer** crafting seamless, user-first experienc
 SPEAK      JavaScript · TypeScript · Java · C++
 BUILD      React.js · Next.js · Vue.js · Meteor.js · TailwindCSS · GraphQL · HTML5 · CSS3
 REMEMBER   Oracle · PostgreSQL
-WEILD       Git · SVN · Postman · Jira/Confluence · Datadog · Figma
-PLAY      Claude Code · Antigravity
+WEILD      Git · SVN · Postman · Jira/Confluence · Datadog · Figma
+PLAY       Claude Code · Antigravity
 ```
